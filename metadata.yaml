@@ -1,0 +1,31 @@
+_repo: The-life-of-St-Patrick-and-his-place-in-history_71431
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bury, J. B. (John Bagnell)
+    alias: Bury, John Bagnell
+    birthdate: 1861
+    deathdate: 1927
+    gutenberg_agent_id: '1506'
+    url: http://www.gutenberg.org/2009/agents/1506
+    wikipedia: https://en.wikipedia.org/wiki/J._B._Bury
+description: ''
+gutenberg_issued: '2023-08-17'
+identifiers:
+  gutenberg: '71431'
+language: en
+pgterms:marc904: https://archive.org/details/lifeofstpatrickh00bury/page/n9
+pgterms:marc905: 20200122041424bury
+pgterms:marc906: '1905'
+pgterms:marc907: GB
+production_note: Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aLondon :$bMacmillan and Co., $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The life of St. Patrick and his place in history
+url: http://www.gutenberg.org/ebooks/71431

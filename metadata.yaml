@@ -1,5 +1,8 @@
 _repo: The-life-of-St-Patrick-and-his-place-in-history_71431
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71431-h/images/cover.jpg
 creator:
   author:
     agent_name: Bury, J. B. (John Bagnell)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1506
     wikipedia: https://en.wikipedia.org/wiki/J._B._Bury
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71431#The-life-of-St-Patrick-and-his-place-in-history
 gutenberg_issued: '2023-08-17'
 identifiers:
   gutenberg: '71431'
